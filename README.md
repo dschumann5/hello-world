@@ -1,2 +1,2 @@
 # hello-world
-First practice repository
+Hey. The name is Danny. The game is Branny.

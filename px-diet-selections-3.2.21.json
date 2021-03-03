@@ -2,7 +2,7 @@
  {
    "breed": "Labrador Retriever",
    "size": "Large",
-   "url-slug": "dog-foods-for-labrador-retrievers",
+   "urlSlug": "dog-foods-for-labrador-retrievers",
    "p1": 62,
    "p2": 31,
    "p3": 14,
@@ -19,7 +19,7 @@
  {
    "breed": "Bernese Mountain Dog",
    "size": "Large",
-   "url-slug": "dog-foods-for-bernese-mountain-dogs",
+   "urlSlug": "dog-foods-for-bernese-mountain-dogs",
    "p1": 62,
    "p2": 31,
    "p3": 14,
@@ -36,7 +36,7 @@
  {
    "breed": "Airedale Terrier",
    "size": "Large",
-   "url-slug": "dog-foods-for-airedale-terriers",
+   "urlSlug": "dog-foods-for-airedale-terriers",
    "p1": 62,
    "p2": 31,
    "p3": 14,
@@ -53,7 +53,7 @@
  {
    "breed": "Weimaraner",
    "size": "Large",
-   "url-slug": "dog-food-for-weimaraners",
+   "urlSlug": "dog-food-for-weimaraners",
    "p1": 62,
    "p2": 31,
    "p3": 14,
@@ -70,7 +70,7 @@
  {
    "breed": "Tibetan Mastiff",
    "size": "Giant",
-   "url-slug": "dog-food-for-tibetan-mastiffs",
+   "urlSlug": "dog-food-for-tibetan-mastiffs",
    "p1": 62,
    "p2": 31,
    "p3": 14,
@@ -87,7 +87,7 @@
  {
    "breed": "Siberian Husky",
    "size": "Medium",
-   "url-slug": "dog-food-for-siberian-huskies",
+   "urlSlug": "dog-food-for-siberian-huskies",
    "p1": 62,
    "p2": 31,
    "p3": 14,
@@ -104,7 +104,7 @@
  {
    "breed": "Samoyed",
    "size": "Medium",
-   "url-slug": "dog-food-for-samoyeds",
+   "urlSlug": "dog-food-for-samoyeds",
    "p1": 62,
    "p2": 31,
    "p3": 14,
@@ -121,7 +121,7 @@
  {
    "breed": "Saluki",
    "size": "Medium",
-   "url-slug": "dog-food-for-salukis",
+   "urlSlug": "dog-food-for-salukis",
    "p1": 62,
    "p2": 31,
    "p3": 14,
@@ -138,7 +138,7 @@
  {
    "breed": "Pug",
    "size": "Small",
-   "url-slug": "dog-food-for-pugs",
+   "urlSlug": "dog-food-for-pugs",
    "p1": 62,
    "p2": 31,
    "p3": 14,
@@ -155,7 +155,7 @@
  {
    "breed": "Poodle",
    "size": "Multiple",
-   "url-slug": "dog-food-for-poodles",
+   "urlSlug": "dog-food-for-poodles",
    "p1": 62,
    "p2": 31,
    "p3": 14,
@@ -172,7 +172,7 @@
  {
    "breed": "Maltese",
    "size": "Toy",
-   "url-slug": "dog-food-for-maltese-dogs",
+   "urlSlug": "dog-food-for-maltese-dogs",
    "p1": 62,
    "p2": 31,
    "p3": 14,
@@ -189,7 +189,7 @@
  {
    "breed": "Golden Retriever",
    "size": "Large",
-   "url-slug": "dog-food-for-golden-retrievers",
+   "urlSlug": "dog-food-for-golden-retrievers",
    "p1": 10,
    "p2": 21,
    "p3": 62,
@@ -206,7 +206,7 @@
  {
    "breed": "German Shorthaired Pointer",
    "size": "Medium",
-   "url-slug": "dog-food-for-german-shorthaired-pointers",
+   "urlSlug": "dog-food-for-german-shorthaired-pointers",
    "p1": 62,
    "p2": 31,
    "p3": 14,
@@ -223,7 +223,7 @@
  {
    "breed": "French Bulldog",
    "size": "Small",
-   "url-slug": "dog-food-for-french-bulldogs",
+   "urlSlug": "dog-food-for-french-bulldogs",
    "p1": 62,
    "p2": 31,
    "p3": 14,
@@ -240,7 +240,7 @@
  {
    "breed": "English Toy Spaniel",
    "size": "Small",
-   "url-slug": "dog-food-for-english-toy-spaniels",
+   "urlSlug": "dog-food-for-english-toy-spaniels",
    "p1": 62,
    "p2": 31,
    "p3": 14,
@@ -257,7 +257,7 @@
  {
    "breed": "Corgi",
    "size": "Small",
-   "url-slug": "dog-food-for-corgis",
+   "urlSlug": "dog-food-for-corgis",
    "p1": 62,
    "p2": 31,
    "p3": 14,
@@ -274,7 +274,7 @@
  {
    "breed": "Collie",
    "size": "Medium",
-   "url-slug": "dog-food-for-collies",
+   "urlSlug": "dog-food-for-collies",
    "p1": 62,
    "p2": 31,
    "p3": 14,
@@ -291,7 +291,7 @@
  {
    "breed": "Chinese Crested",
    "size": "Toy",
-   "url-slug": "dog-food-for-chinese-crested-dogs",
+   "urlSlug": "dog-food-for-chinese-crested-dogs",
    "p1": 62,
    "p2": 31,
    "p3": 14,
@@ -308,7 +308,7 @@
  {
    "breed": "Chihuahua",
    "size": "Toy",
-   "url-slug": "dog-food-for-chihuahuas",
+   "urlSlug": "dog-food-for-chihuahuas",
    "p1": 62,
    "p2": 31,
    "p3": 14,
@@ -325,7 +325,7 @@
  {
    "breed": "Bulldog",
    "size": "Medium",
-   "url-slug": "dog-food-for-bulldogs",
+   "urlSlug": "dog-food-for-bulldogs",
    "p1": 62,
    "p2": 31,
    "p3": 14,
@@ -342,7 +342,7 @@
  {
    "breed": "Beagle",
    "size": "Small",
-   "url-slug": "dog-food-for-beagles",
+   "urlSlug": "dog-food-for-beagles",
    "p1": 62,
    "p2": 31,
    "p3": 14,
@@ -359,7 +359,7 @@
  {
    "breed": "Australian Shepherd",
    "size": "Medium",
-   "url-slug": "dog-food-for-australian-shepherds",
+   "urlSlug": "dog-food-for-australian-shepherds",
    "p1": 62,
    "p2": 31,
    "p3": 14,
@@ -376,7 +376,7 @@
  {
    "breed": "American Eskimo Dog",
    "size": "Small",
-   "url-slug": "dog-food-for-american-eskimo-dogs",
+   "urlSlug": "dog-food-for-american-eskimo-dogs",
    "p1": 62,
    "p2": 31,
    "p3": 14,
@@ -393,7 +393,7 @@
  {
    "breed": "Affenpinscher",
    "size": "Toy",
-   "url-slug": "dog-food-for-affenpinscher",
+   "urlSlug": "dog-food-for-affenpinscher",
    "p1": 62,
    "p2": 31,
    "p3": 14,

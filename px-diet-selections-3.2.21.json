@@ -51,6 +51,23 @@
    "s4": 72
  },
  {
+   "breed": "Yorkshire Terrier",
+   "size": "Toy",
+   "urlSlug": "dog-food-for-yorkshire-terriers",
+   "p1": 26,
+   "p2": 169,
+   "p3": 69,
+   "p4": 68,
+   "a1": 4,
+   "a2": 8,
+   "a3": 44,
+   "a4": 66,
+   "s1": 49,
+   "s2": 74,
+   "s3": 64,
+   "s4": 42
+ },
+ {
    "breed": "Weimaraner",
    "size": "Large",
    "urlSlug": "dog-food-for-weimaraners",

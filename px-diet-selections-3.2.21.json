@@ -153,6 +153,23 @@
    "s4": 72
  },
  {
+   "breed": "St. Bernard",
+   "size": "Giant",
+   "urlSlug": "dog-food-for-saint-bernards",
+   "p1": 41,
+   "p2": 62,
+   "p3": 11,
+   "p4": 31,
+   "a1": 12,
+   "a2": 58,
+   "a3": 56,
+   "a4": 59,
+   "s1": 23,
+   "s2": 71,
+   "s3": 19,
+   "s4": 75
+ },
+ {
    "breed": "Pug",
    "size": "Small",
    "urlSlug": "dog-food-for-pugs",
@@ -187,6 +204,23 @@
    "s4": 72
  },
  {
+   "breed": "Pomeranian",
+   "size": "Toy",
+   "urlSlug": "dog-food-for-pomeranians",
+   "p1": 26,
+   "p2": 39,
+   "p3": 36,
+   "p4": 24,
+   "a1": 2,
+   "a2": 44,
+   "a3": 7,
+   "a4": 66,
+   "s1": 49,
+   "s2": 74,
+   "s3": 19,
+   "s4": 77
+ },
+ {
    "breed": "Maltese",
    "size": "Toy",
    "urlSlug": "dog-food-for-maltese-dogs",
@@ -202,6 +236,23 @@
    "s2": 75,
    "s3": 19,
    "s4": 72
+ },
+ {
+   "breed": "Great Dane",
+   "size": "Giant",
+   "urlSlug": "dog-food-for-great-danes",
+   "p1": 41,
+   "p2": 62,
+   "p3": 11,
+   "p4": 35,
+   "a1": 12,
+   "a2": 48,
+   "a3": 56,
+   "a4": 59,
+   "s1": 23,
+   "s2": 71,
+   "s3": 19,
+   "s4": 73
  },
  {
    "breed": "Golden Retriever",
@@ -306,6 +357,23 @@
    "s4": 72
  },
  {
+   "breed": "English Cocker Spaniel",
+   "size": "Small",
+   "urlSlug": "dog-food-for-cocker-spaniels",
+   "p1": 26,
+   "p2": 36,
+   "p3": 67,
+   "p4": 68,
+   "a1": 2,
+   "a2": 4,
+   "a3": 30,
+   "a4": 65,
+   "s1": 38,
+   "s2": 42,
+   "s3": 64,
+   "s4": 77
+ },
+ {
    "breed": "Chinese Crested",
    "size": "Toy",
    "urlSlug": "dog-food-for-chinese-crested-dogs",
@@ -372,6 +440,23 @@
    "s2": 75,
    "s3": 19,
    "s4": 72
+ },
+ {
+   "breed": "Basset Hound",
+   "size": "Medium",
+   "urlSlug": "dog-food-for-basset-hounds",
+   "p1": 18,
+   "p2": 61,
+   "p3": 21,
+   "p4": 24,
+   "a1": 53,
+   "a2": 76,
+   "a3": 59,
+   "a4": 46,
+   "s1": 37,
+   "s2": 19,
+   "s3": 63,
+   "s4": 75
  },
  {
    "breed": "Australian Shepherd",

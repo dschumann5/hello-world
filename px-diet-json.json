@@ -1402,5 +1402,41 @@
    "pix1": 18,
    "pix2": 18,
    "pix3": 18
+ },
+ {
+   "diet_id": 170,
+   "brand": "Nulo",
+   "product_name": "Freestyle Puppy High-Meat Grain-Free Salmon & Peas Recipe Dry Dog Food",
+   "product_image": "https://img.chewy.com/is/image/catalog/251413_MAIN._AC_SL1500_V1600878686_.jpg",
+   "link1": "https://www.chewy.com/nulo-freestyle-puppy-grain-free/dp/104594",
+   "link2": "https://amzn.to/39r1fmr",
+   "link3": "https://www.petflow.com/product/nulo/nulo-freestyle-grain-free-salmon-and-peas-recipe-dry-dog-food",
+   "ret1": "chewy",
+   "ret2": "amazon",
+   "ret3": "petflow",
+   "logo1": "https://images.squarespace-cdn.com/content/5d54890686637f0001c31435/1594137878870-U23FY70MVEZZ8JNDZFL3/chewy-pet-food-logo.png",
+   "logo2": "https://images.squarespace-cdn.com/content/5d54890686637f0001c31435/1596134087043-KZWYG676IYF2I5I7LE15/amazon-logo-white.png",
+   "logo3": "https://images.squarespace-cdn.com/content/5d54890686637f0001c31435/1597084330259-W581845TSDP3BUQLADE5/petflow-logo-transp.png?content-type=image%2Fpng",
+   "pix1": 18,
+   "pix2": 18,
+   "pix3": 18
+ },
+ {
+   "diet_id": 171,
+   "brand": "Nulo",
+   "product_name": "Freestyle Salmon & Red Lentils Small Breed Grain-Free Dry Dog Food",
+   "product_image": "https://img.chewy.com/is/image/catalog/99477_MAIN._AC_SL1500_V1511900585_.jpg",
+   "link1": "https://www.chewy.com/nulo-freestyle-salmon-red-lentils/dp/127022",
+   "link2": "https://amzn.to/31wisGM",
+   "link3": "https://www.petsense.com/products/nulo-freestyle-grain-free-small-breed-salmon-and-red-lentil-dry-dog-food",
+   "ret1": "chewy",
+   "ret2": "amazon",
+   "ret3": "petsense",
+   "logo1": "https://images.squarespace-cdn.com/content/5d54890686637f0001c31435/1594137878870-U23FY70MVEZZ8JNDZFL3/chewy-pet-food-logo.png",
+   "logo2": "https://images.squarespace-cdn.com/content/5d54890686637f0001c31435/1596134087043-KZWYG676IYF2I5I7LE15/amazon-logo-white.png",
+   "logo3": "https://images.squarespace-cdn.com/content/5d54890686637f0001c31435/1617073413221-SXH2HNRP3RXCVXOBG36P/petsense-logo.png?content-type=image%2Fpng",
+   "pix1": 18,
+   "pix2": 18,
+   "pix3": 18
  }
 ]

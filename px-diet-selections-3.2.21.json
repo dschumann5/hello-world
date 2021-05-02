@@ -14,7 +14,13 @@
    "s1": 33,
    "s2": 75,
    "s3": 19,
-   "s4": 72
+   "s4": 72,
+   "BreedId": 146,
+   "BreedGroup": "Companion",
+   "MaleWeightMin": 45,
+   "MaleWeightMax": 70,
+   "FemaleWeightMin": 45,
+   "FemaleWeightMax": 60
  },
  {
    "breed": "Great Dane",
@@ -31,7 +37,13 @@
    "s1": 23,
    "s2": 71,
    "s3": 19,
-   "s4": 73
+   "s4": 73,
+   "BreedId": 91,
+   "BreedGroup": "Working",
+   "MaleWeightMin": 140,
+   "MaleWeightMax": 175,
+   "FemaleWeightMin": 110,
+   "FemaleWeightMax": 140
  },
  {
    "breed": "St. Bernard",
@@ -48,7 +60,13 @@
    "s1": 23,
    "s2": 71,
    "s3": 19,
-   "s4": 75
+   "s4": 75,
+   "BreedId": 175,
+   "BreedGroup": "Working",
+   "MaleWeightMin": 140,
+   "MaleWeightMax": 180,
+   "FemaleWeightMin": 120,
+   "FemaleWeightMax": 140
  },
  {
    "breed": "Tibetan Mastiff",
@@ -65,7 +83,13 @@
    "s1": 33,
    "s2": 75,
    "s3": 19,
-   "s4": 72
+   "s4": 72,
+   "BreedId": 180,
+   "BreedGroup": "Working",
+   "MaleWeightMin": 90,
+   "MaleWeightMax": 150,
+   "FemaleWeightMin": 70,
+   "FemaleWeightMax": 120
  },
  {
    "breed": "Airedale Terrier",
@@ -82,7 +106,13 @@
    "s1": 33,
    "s2": 75,
    "s3": 19,
-   "s4": 72
+   "s4": 72,
+   "BreedId": 3,
+   "BreedGroup": "Terrier",
+   "MaleWeightMin": 50,
+   "MaleWeightMax": 70,
+   "FemaleWeightMin": 40,
+   "FemaleWeightMax": 65
  },
  {
    "breed": "Bernese Mountain Dog",
@@ -99,7 +129,13 @@
    "s1": 33,
    "s2": 75,
    "s3": 19,
-   "s4": 72
+   "s4": 72,
+   "BreedId": 28,
+   "BreedGroup": "Working",
+   "MaleWeightMin": 80,
+   "MaleWeightMax": 115,
+   "FemaleWeightMin": 70,
+   "FemaleWeightMax": 95
  },
  {
    "breed": "Cane Corso",
@@ -116,7 +152,13 @@
    "s1": 23,
    "s2": 19,
    "s3": 71,
-   "s4": 75
+   "s4": 75,
+   "BreedId": 50,
+   "BreedGroup": "Working",
+   "MaleWeightMin": 95,
+   "MaleWeightMax": 110,
+   "FemaleWeightMin": 88,
+   "FemaleWeightMax": 99
  },
  {
    "breed": "Golden Retriever",
@@ -133,7 +175,13 @@
    "s1": 22,
    "s2": 71,
    "s3": 25,
-   "s4": 72
+   "s4": 72,
+   "BreedId": 89,
+   "BreedGroup": "Sporting",
+   "MaleWeightMin": 65,
+   "MaleWeightMax": 75,
+   "FemaleWeightMin": 55,
+   "FemaleWeightMax": 65
  },
  {
    "breed": "Labrador Retriever",
@@ -150,7 +198,13 @@
    "s1": 33,
    "s2": 75,
    "s3": 19,
-   "s4": 72
+   "s4": 72,
+   "BreedId": 110,
+   "BreedGroup": "Sporting",
+   "MaleWeightMin": 65,
+   "MaleWeightMax": 80,
+   "FemaleWeightMin": 55,
+   "FemaleWeightMax": 70
  },
  {
    "breed": "Weimaraner",
@@ -167,7 +221,13 @@
    "s1": 33,
    "s2": 75,
    "s3": 19,
-   "s4": 72
+   "s4": 72,
+   "BreedId": 186,
+   "BreedGroup": "Sporting",
+   "MaleWeightMin": 70,
+   "MaleWeightMax": 90,
+   "FemaleWeightMin": 55,
+   "FemaleWeightMax": 75
  },
  {
    "breed": "Australian Shepherd",
@@ -184,7 +244,13 @@
    "s1": 33,
    "s2": 75,
    "s3": 19,
-   "s4": 72
+   "s4": 72,
+   "BreedId": 15,
+   "BreedGroup": "Herding",
+   "MaleWeightMin": 50,
+   "MaleWeightMax": 65,
+   "FemaleWeightMin": 40,
+   "FemaleWeightMax": 55
  },
  {
    "breed": "Basset Hound",
@@ -201,7 +267,13 @@
    "s1": 37,
    "s2": 19,
    "s3": 63,
-   "s4": 75
+   "s4": 75,
+   "BreedId": 18,
+   "BreedGroup": "Hound",
+   "MaleWeightMin": 40,
+   "MaleWeightMax": 65,
+   "FemaleWeightMin": 40,
+   "FemaleWeightMax": 65
  },
  {
    "breed": "Bull Terrier",
@@ -218,7 +290,13 @@
    "s1": 16,
    "s2": 73,
    "s3": 75,
-   "s4": 37
+   "s4": 37,
+   "BreedId": 45,
+   "BreedGroup": "Terrier",
+   "MaleWeightMin": 50,
+   "MaleWeightMax": 70,
+   "FemaleWeightMin": 50,
+   "FemaleWeightMax": 70
  },
  {
    "breed": "Bulldog",
@@ -235,7 +313,13 @@
    "s1": 33,
    "s2": 75,
    "s3": 19,
-   "s4": 72
+   "s4": 72,
+   "BreedId": 46,
+   "BreedGroup": "Companion",
+   "MaleWeightMin": 51,
+   "MaleWeightMax": 55,
+   "FemaleWeightMin": 40,
+   "FemaleWeightMax": 51
  },
  {
    "breed": "Chow Chow",
@@ -252,7 +336,13 @@
    "s1": 16,
    "s2": 63,
    "s3": 75,
-   "s4": 25
+   "s4": 25,
+   "BreedId": 59,
+   "BreedGroup": "Working",
+   "MaleWeightMin": 45,
+   "MaleWeightMax": 70,
+   "FemaleWeightMin": 45,
+   "FemaleWeightMax": 70
  },
  {
    "breed": "Collie",
@@ -269,7 +359,13 @@
    "s1": 33,
    "s2": 75,
    "s3": 19,
-   "s4": 72
+   "s4": 72,
+   "BreedId": 62,
+   "BreedGroup": "Herding",
+   "MaleWeightMin": 60,
+   "MaleWeightMax": 75,
+   "FemaleWeightMin": 50,
+   "FemaleWeightMax": 65
  },
  {
    "breed": "German Shorthaired Pointer",
@@ -286,7 +382,13 @@
    "s1": 33,
    "s2": 75,
    "s3": 19,
-   "s4": 72
+   "s4": 72,
+   "BreedId": 85,
+   "BreedGroup": "Sporting",
+   "MaleWeightMin": 55,
+   "MaleWeightMax": 70,
+   "FemaleWeightMin": 45,
+   "FemaleWeightMax": 60
  },
  {
    "breed": "Norwegian Elkhound",
@@ -303,7 +405,13 @@
    "s1": 22,
    "s2": 63,
    "s3": 72,
-   "s4": 37
+   "s4": 37,
+   "BreedId": 129,
+   "BreedGroup": "Hound",
+   "MaleWeightMin": 50,
+   "MaleWeightMax": 57,
+   "FemaleWeightMin": 45,
+   "FemaleWeightMax": 50
  },
  {
    "breed": "Plott Hound",
@@ -320,7 +428,13 @@
    "s1": 22,
    "s2": 73,
    "s3": 72,
-   "s4": 25
+   "s4": 25,
+   "BreedId": 141,
+   "BreedGroup": "Hound",
+   "MaleWeightMin": 50,
+   "MaleWeightMax": 60,
+   "FemaleWeightMin": 40,
+   "FemaleWeightMax": 55
  },
  {
    "breed": "Saluki",
@@ -337,7 +451,13 @@
    "s1": 33,
    "s2": 75,
    "s3": 19,
-   "s4": 72
+   "s4": 72,
+   "BreedId": 159,
+   "BreedGroup": "Hound",
+   "MaleWeightMin": 40,
+   "MaleWeightMax": 65,
+   "FemaleWeightMin": 40,
+   "FemaleWeightMax": 65
  },
  {
    "breed": "Samoyed",
@@ -354,7 +474,13 @@
    "s1": 33,
    "s2": 75,
    "s3": 19,
-   "s4": 72
+   "s4": 72,
+   "BreedId": 160,
+   "BreedGroup": "Working",
+   "MaleWeightMin": 45,
+   "MaleWeightMax": 65,
+   "FemaleWeightMin": 35,
+   "FemaleWeightMax": 50
  },
  {
    "breed": "Siberian Husky",
@@ -371,7 +497,13 @@
    "s1": 33,
    "s2": 75,
    "s3": 19,
-   "s4": 72
+   "s4": 72,
+   "BreedId": 168,
+   "BreedGroup": "Working",
+   "MaleWeightMin": 45,
+   "MaleWeightMax": 60,
+   "FemaleWeightMin": 35,
+   "FemaleWeightMax": 50
  },
  {
    "breed": "American Eskimo Dog",
@@ -388,7 +520,13 @@
    "s1": 33,
    "s2": 75,
    "s3": 19,
-   "s4": 72
+   "s4": 72,
+   "BreedId": 7,
+   "BreedGroup": "Companion",
+   "MaleWeightMin": 10,
+   "MaleWeightMax": 20,
+   "FemaleWeightMin": 10,
+   "FemaleWeightMax": 17
  },
  {
    "breed": "Beagle",
@@ -405,7 +543,13 @@
    "s1": 33,
    "s2": 75,
    "s3": 19,
-   "s4": 72
+   "s4": 72,
+   "BreedId": 19,
+   "BreedGroup": "Hound",
+   "MaleWeightMin": 14,
+   "MaleWeightMax": 30,
+   "FemaleWeightMin": 14,
+   "FemaleWeightMax": 30
  },
  {
    "breed": "Corgi",
@@ -422,7 +566,13 @@
    "s1": 33,
    "s2": 75,
    "s3": 19,
-   "s4": 72
+   "s4": 72,
+   "BreedId": 138,
+   "BreedGroup": "Herding",
+   "MaleWeightMin": 20,
+   "MaleWeightMax": 30,
+   "FemaleWeightMin": 18,
+   "FemaleWeightMax": 26
  },
  {
    "breed": "English Cocker Spaniel",
@@ -439,7 +589,13 @@
    "s1": 38,
    "s2": 42,
    "s3": 64,
-   "s4": 77
+   "s4": 77,
+   "BreedId": 71,
+   "BreedGroup": "Sporting",
+   "MaleWeightMin": 28,
+   "MaleWeightMax": 34,
+   "FemaleWeightMin": 26,
+   "FemaleWeightMax": 32
  },
  {
    "breed": "English Toy Spaniel",
@@ -456,7 +612,13 @@
    "s1": 33,
    "s2": 75,
    "s3": 19,
-   "s4": 72
+   "s4": 72,
+   "BreedId": 75,
+   "BreedGroup": "Companion",
+   "MaleWeightMin": 8,
+   "MaleWeightMax": 14,
+   "FemaleWeightMin": 8,
+   "FemaleWeightMax": 14
  },
  {
    "breed": "French Bulldog",
@@ -473,7 +635,13 @@
    "s1": 64,
    "s2": 77,
    "s3": 72,
-   "s4": 74
+   "s4": 74,
+   "BreedId": 82,
+   "BreedGroup": "Companion",
+   "MaleWeightMin": 24,
+   "MaleWeightMax": 28,
+   "FemaleWeightMin": 22,
+   "FemaleWeightMax": 28
  },
  {
    "breed": "Havanese",
@@ -490,7 +658,13 @@
    "s1": 22,
    "s2": 63,
    "s3": 16,
-   "s4": 75
+   "s4": 75,
+   "BreedId": 96,
+   "BreedGroup": "Companion",
+   "MaleWeightMin": 7,
+   "MaleWeightMax": 13,
+   "FemaleWeightMin": 7,
+   "FemaleWeightMax": 13
  },
  {
    "breed": "Miniature Schnauzer",
@@ -507,7 +681,13 @@
    "s1": 22,
    "s2": 63,
    "s3": 38,
-   "s4": 25
+   "s4": 25,
+   "BreedId": 124,
+   "BreedGroup": "Terrier",
+   "MaleWeightMin": 11,
+   "MaleWeightMax": 20,
+   "FemaleWeightMin": 11,
+   "FemaleWeightMax": 20
  },
  {
    "breed": "Pug",
@@ -524,7 +704,13 @@
    "s1": 33,
    "s2": 75,
    "s3": 19,
-   "s4": 72
+   "s4": 72,
+   "BreedId": 150,
+   "BreedGroup": "Companion",
+   "MaleWeightMin": 14,
+   "MaleWeightMax": 18,
+   "FemaleWeightMin": 14,
+   "FemaleWeightMax": 18
  },
  {
    "breed": "Sealyham Terrier",
@@ -541,7 +727,13 @@
    "s1": 19,
    "s2": 72,
    "s3": 16,
-   "s4": 75
+   "s4": 75,
+   "BreedId": 164,
+   "BreedGroup": "Terrier",
+   "MaleWeightMin": 22,
+   "MaleWeightMax": 24,
+   "FemaleWeightMin": 21,
+   "FemaleWeightMax": 23
  },
  {
    "breed": "Shih Tzu",
@@ -558,7 +750,13 @@
    "s1": 19,
    "s2": 72,
    "s3": 38,
-   "s4": 25
+   "s4": 25,
+   "BreedId": 167,
+   "BreedGroup": "Companion",
+   "MaleWeightMin": 9,
+   "MaleWeightMax": 16,
+   "FemaleWeightMin": 9,
+   "FemaleWeightMax": 16
  },
  {
    "breed": "Affenpinscher",
@@ -575,7 +773,13 @@
    "s1": 33,
    "s2": 75,
    "s3": 19,
-   "s4": 72
+   "s4": 72,
+   "BreedId": 1,
+   "BreedGroup": "Companion",
+   "MaleWeightMin": 7,
+   "MaleWeightMax": 10,
+   "FemaleWeightMin": 7,
+   "FemaleWeightMax": 10
  },
  {
    "breed": "Chihuahua",
@@ -592,7 +796,13 @@
    "s1": 33,
    "s2": 75,
    "s3": 19,
-   "s4": 72
+   "s4": 72,
+   "BreedId": 55,
+   "BreedGroup": "Companion",
+   "MaleWeightMin": 3,
+   "MaleWeightMax": 6,
+   "FemaleWeightMin": 3,
+   "FemaleWeightMax": 6
  },
  {
    "breed": "Chinese Crested",
@@ -609,7 +819,13 @@
    "s1": 33,
    "s2": 75,
    "s3": 19,
-   "s4": 72
+   "s4": 72,
+   "BreedId": 56,
+   "BreedGroup": "Companion",
+   "MaleWeightMin": 8,
+   "MaleWeightMax": 12,
+   "FemaleWeightMin": 8,
+   "FemaleWeightMax": 12
  },
  {
    "breed": "Maltese",
@@ -626,7 +842,13 @@
    "s1": 33,
    "s2": 75,
    "s3": 19,
-   "s4": 72
+   "s4": 72,
+   "BreedId": 117,
+   "BreedGroup": "Companion",
+   "MaleWeightMin": 4,
+   "MaleWeightMax": 7,
+   "FemaleWeightMin": 4,
+   "FemaleWeightMax": 7
  },
  {
    "breed": "Pomeranian",
@@ -643,7 +865,13 @@
    "s1": 49,
    "s2": 74,
    "s3": 19,
-   "s4": 77
+   "s4": 77,
+   "BreedId": 144,
+   "BreedGroup": "Companion",
+   "MaleWeightMin": 3,
+   "MaleWeightMax": 7,
+   "FemaleWeightMin": 3,
+   "FemaleWeightMax": 7
  },
  {
    "breed": "Yorkshire Terrier",
@@ -660,6 +888,12 @@
    "s1": 49,
    "s2": 74,
    "s3": 64,
-   "s4": 42
+   "s4": 42,
+   "BreedId": 196,
+   "BreedGroup": "Companion",
+   "MaleWeightMin": 5,
+   "MaleWeightMax": 7,
+   "FemaleWeightMin": 5,
+   "FemaleWeightMax": 7
  }
 ]

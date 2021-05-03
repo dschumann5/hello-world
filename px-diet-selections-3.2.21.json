@@ -20,7 +20,10 @@
    "MaleWeightMin": 45,
    "MaleWeightMax": 70,
    "FemaleWeightMin": 45,
-   "FemaleWeightMax": 60
+   "FemaleWeightMax": 60,
+   "Exercise Need": 8,
+   "ExerciseMin": 60,
+   "ExerciseMax": 90
  },
  {
    "breed": "Great Dane",
@@ -43,7 +46,10 @@
    "MaleWeightMin": 140,
    "MaleWeightMax": 175,
    "FemaleWeightMin": 110,
-   "FemaleWeightMax": 140
+   "FemaleWeightMax": 140,
+   "Exercise Need": 10,
+   "ExerciseMin": 60,
+   "ExerciseMax": 120
  },
  {
    "breed": "St. Bernard",
@@ -66,7 +72,10 @@
    "MaleWeightMin": 140,
    "MaleWeightMax": 180,
    "FemaleWeightMin": 120,
-   "FemaleWeightMax": 140
+   "FemaleWeightMax": 140,
+   "Exercise Need": 4,
+   "ExerciseMin": 30,
+   "ExerciseMax": 45
  },
  {
    "breed": "Tibetan Mastiff",
@@ -89,7 +98,10 @@
    "MaleWeightMin": 90,
    "MaleWeightMax": 150,
    "FemaleWeightMin": 70,
-   "FemaleWeightMax": 120
+   "FemaleWeightMax": 120,
+   "Exercise Need": 4,
+   "ExerciseMin": 30,
+   "ExerciseMax": 45
  },
  {
    "breed": "Airedale Terrier",
@@ -112,7 +124,10 @@
    "MaleWeightMin": 50,
    "MaleWeightMax": 70,
    "FemaleWeightMin": 40,
-   "FemaleWeightMax": 65
+   "FemaleWeightMax": 65,
+   "Exercise Need": 10,
+   "ExerciseMin": 60,
+   "ExerciseMax": 120
  },
  {
    "breed": "Bernese Mountain Dog",
@@ -135,7 +150,10 @@
    "MaleWeightMin": 80,
    "MaleWeightMax": 115,
    "FemaleWeightMin": 70,
-   "FemaleWeightMax": 95
+   "FemaleWeightMax": 95,
+   "Exercise Need": 6,
+   "ExerciseMin": 30,
+   "ExerciseMax": 60
  },
  {
    "breed": "Cane Corso",
@@ -158,7 +176,10 @@
    "MaleWeightMin": 95,
    "MaleWeightMax": 110,
    "FemaleWeightMin": 88,
-   "FemaleWeightMax": 99
+   "FemaleWeightMax": 99,
+   "Exercise Need": 10,
+   "ExerciseMin": 60,
+   "ExerciseMax": 120
  },
  {
    "breed": "Golden Retriever",
@@ -181,7 +202,10 @@
    "MaleWeightMin": 65,
    "MaleWeightMax": 75,
    "FemaleWeightMin": 55,
-   "FemaleWeightMax": 65
+   "FemaleWeightMax": 65,
+   "Exercise Need": 10,
+   "ExerciseMin": 60,
+   "ExerciseMax": 120
  },
  {
    "breed": "Labrador Retriever",
@@ -204,7 +228,10 @@
    "MaleWeightMin": 65,
    "MaleWeightMax": 80,
    "FemaleWeightMin": 55,
-   "FemaleWeightMax": 70
+   "FemaleWeightMax": 70,
+   "Exercise Need": 10,
+   "ExerciseMin": 60,
+   "ExerciseMax": 120
  },
  {
    "breed": "Weimaraner",
@@ -227,7 +254,10 @@
    "MaleWeightMin": 70,
    "MaleWeightMax": 90,
    "FemaleWeightMin": 55,
-   "FemaleWeightMax": 75
+   "FemaleWeightMax": 75,
+   "Exercise Need": 10,
+   "ExerciseMin": 60,
+   "ExerciseMax": 120
  },
  {
    "breed": "Australian Shepherd",
@@ -250,7 +280,10 @@
    "MaleWeightMin": 50,
    "MaleWeightMax": 65,
    "FemaleWeightMin": 40,
-   "FemaleWeightMax": 55
+   "FemaleWeightMax": 55,
+   "Exercise Need": 10,
+   "ExerciseMin": 60,
+   "ExerciseMax": 120
  },
  {
    "breed": "Basset Hound",
@@ -273,7 +306,10 @@
    "MaleWeightMin": 40,
    "MaleWeightMax": 65,
    "FemaleWeightMin": 40,
-   "FemaleWeightMax": 65
+   "FemaleWeightMax": 65,
+   "Exercise Need": 4,
+   "ExerciseMin": 30,
+   "ExerciseMax": 45
  },
  {
    "breed": "Bull Terrier",
@@ -296,7 +332,10 @@
    "MaleWeightMin": 50,
    "MaleWeightMax": 70,
    "FemaleWeightMin": 50,
-   "FemaleWeightMax": 70
+   "FemaleWeightMax": 70,
+   "Exercise Need": 10,
+   "ExerciseMin": 60,
+   "ExerciseMax": 120
  },
  {
    "breed": "Bulldog",
@@ -319,7 +358,10 @@
    "MaleWeightMin": 51,
    "MaleWeightMax": 55,
    "FemaleWeightMin": 40,
-   "FemaleWeightMax": 51
+   "FemaleWeightMax": 51,
+   "Exercise Need": 6,
+   "ExerciseMin": 30,
+   "ExerciseMax": 60
  },
  {
    "breed": "Chow Chow",
@@ -342,7 +384,10 @@
    "MaleWeightMin": 45,
    "MaleWeightMax": 70,
    "FemaleWeightMin": 45,
-   "FemaleWeightMax": 70
+   "FemaleWeightMax": 70,
+   "Exercise Need": 4,
+   "ExerciseMin": 30,
+   "ExerciseMax": 45
  },
  {
    "breed": "Collie",
@@ -365,7 +410,10 @@
    "MaleWeightMin": 60,
    "MaleWeightMax": 75,
    "FemaleWeightMin": 50,
-   "FemaleWeightMax": 65
+   "FemaleWeightMax": 65,
+   "Exercise Need": 6,
+   "ExerciseMin": 30,
+   "ExerciseMax": 60
  },
  {
    "breed": "German Shorthaired Pointer",
@@ -388,7 +436,10 @@
    "MaleWeightMin": 55,
    "MaleWeightMax": 70,
    "FemaleWeightMin": 45,
-   "FemaleWeightMax": 60
+   "FemaleWeightMax": 60,
+   "Exercise Need": 10,
+   "ExerciseMin": 60,
+   "ExerciseMax": 120
  },
  {
    "breed": "Norwegian Elkhound",
@@ -411,7 +462,10 @@
    "MaleWeightMin": 50,
    "MaleWeightMax": 57,
    "FemaleWeightMin": 45,
-   "FemaleWeightMax": 50
+   "FemaleWeightMax": 50,
+   "Exercise Need": 10,
+   "ExerciseMin": 60,
+   "ExerciseMax": 120
  },
  {
    "breed": "Plott Hound",
@@ -434,7 +488,10 @@
    "MaleWeightMin": 50,
    "MaleWeightMax": 60,
    "FemaleWeightMin": 40,
-   "FemaleWeightMax": 55
+   "FemaleWeightMax": 55,
+   "Exercise Need": 10,
+   "ExerciseMin": 60,
+   "ExerciseMax": 120
  },
  {
    "breed": "Saluki",
@@ -457,7 +514,10 @@
    "MaleWeightMin": 40,
    "MaleWeightMax": 65,
    "FemaleWeightMin": 40,
-   "FemaleWeightMax": 65
+   "FemaleWeightMax": 65,
+   "Exercise Need": 10,
+   "ExerciseMin": 60,
+   "ExerciseMax": 120
  },
  {
    "breed": "Samoyed",
@@ -480,7 +540,10 @@
    "MaleWeightMin": 45,
    "MaleWeightMax": 65,
    "FemaleWeightMin": 35,
-   "FemaleWeightMax": 50
+   "FemaleWeightMax": 50,
+   "Exercise Need": 10,
+   "ExerciseMin": 60,
+   "ExerciseMax": 120
  },
  {
    "breed": "Siberian Husky",
@@ -503,7 +566,10 @@
    "MaleWeightMin": 45,
    "MaleWeightMax": 60,
    "FemaleWeightMin": 35,
-   "FemaleWeightMax": 50
+   "FemaleWeightMax": 50,
+   "Exercise Need": 10,
+   "ExerciseMin": 60,
+   "ExerciseMax": 120
  },
  {
    "breed": "American Eskimo Dog",
@@ -526,7 +592,10 @@
    "MaleWeightMin": 10,
    "MaleWeightMax": 20,
    "FemaleWeightMin": 10,
-   "FemaleWeightMax": 17
+   "FemaleWeightMax": 17,
+   "Exercise Need": 8,
+   "ExerciseMin": 60,
+   "ExerciseMax": 90
  },
  {
    "breed": "Beagle",
@@ -549,7 +618,10 @@
    "MaleWeightMin": 14,
    "MaleWeightMax": 30,
    "FemaleWeightMin": 14,
-   "FemaleWeightMax": 30
+   "FemaleWeightMax": 30,
+   "Exercise Need": 8,
+   "ExerciseMin": 60,
+   "ExerciseMax": 90
  },
  {
    "breed": "Corgi",
@@ -572,7 +644,10 @@
    "MaleWeightMin": 20,
    "MaleWeightMax": 30,
    "FemaleWeightMin": 18,
-   "FemaleWeightMax": 26
+   "FemaleWeightMax": 26,
+   "Exercise Need": 8,
+   "ExerciseMin": 60,
+   "ExerciseMax": 90
  },
  {
    "breed": "English Cocker Spaniel",
@@ -595,7 +670,10 @@
    "MaleWeightMin": 28,
    "MaleWeightMax": 34,
    "FemaleWeightMin": 26,
-   "FemaleWeightMax": 32
+   "FemaleWeightMax": 32,
+   "Exercise Need": 8,
+   "ExerciseMin": 60,
+   "ExerciseMax": 90
  },
  {
    "breed": "English Toy Spaniel",
@@ -618,7 +696,10 @@
    "MaleWeightMin": 8,
    "MaleWeightMax": 14,
    "FemaleWeightMin": 8,
-   "FemaleWeightMax": 14
+   "FemaleWeightMax": 14,
+   "Exercise Need": 4,
+   "ExerciseMin": 30,
+   "ExerciseMax": 45
  },
  {
    "breed": "French Bulldog",
@@ -641,7 +722,10 @@
    "MaleWeightMin": 24,
    "MaleWeightMax": 28,
    "FemaleWeightMin": 22,
-   "FemaleWeightMax": 28
+   "FemaleWeightMax": 28,
+   "Exercise Need": 4,
+   "ExerciseMin": 30,
+   "ExerciseMax": 45
  },
  {
    "breed": "Havanese",
@@ -664,7 +748,10 @@
    "MaleWeightMin": 7,
    "MaleWeightMax": 13,
    "FemaleWeightMin": 7,
-   "FemaleWeightMax": 13
+   "FemaleWeightMax": 13,
+   "Exercise Need": 6,
+   "ExerciseMin": 30,
+   "ExerciseMax": 60
  },
  {
    "breed": "Miniature Schnauzer",
@@ -687,7 +774,10 @@
    "MaleWeightMin": 11,
    "MaleWeightMax": 20,
    "FemaleWeightMin": 11,
-   "FemaleWeightMax": 20
+   "FemaleWeightMax": 20,
+   "Exercise Need": 10,
+   "ExerciseMin": 60,
+   "ExerciseMax": 120
  },
  {
    "breed": "Pug",
@@ -710,7 +800,10 @@
    "MaleWeightMin": 14,
    "MaleWeightMax": 18,
    "FemaleWeightMin": 14,
-   "FemaleWeightMax": 18
+   "FemaleWeightMax": 18,
+   "Exercise Need": 6,
+   "ExerciseMin": 30,
+   "ExerciseMax": 60
  },
  {
    "breed": "Sealyham Terrier",
@@ -733,7 +826,10 @@
    "MaleWeightMin": 22,
    "MaleWeightMax": 24,
    "FemaleWeightMin": 21,
-   "FemaleWeightMax": 23
+   "FemaleWeightMax": 23,
+   "Exercise Need": 8,
+   "ExerciseMin": 60,
+   "ExerciseMax": 90
  },
  {
    "breed": "Shih Tzu",
@@ -756,7 +852,10 @@
    "MaleWeightMin": 9,
    "MaleWeightMax": 16,
    "FemaleWeightMin": 9,
-   "FemaleWeightMax": 16
+   "FemaleWeightMax": 16,
+   "Exercise Need": 4,
+   "ExerciseMin": 30,
+   "ExerciseMax": 45
  },
  {
    "breed": "Affenpinscher",
@@ -779,7 +878,10 @@
    "MaleWeightMin": 7,
    "MaleWeightMax": 10,
    "FemaleWeightMin": 7,
-   "FemaleWeightMax": 10
+   "FemaleWeightMax": 10,
+   "Exercise Need": 6,
+   "ExerciseMin": 30,
+   "ExerciseMax": 60
  },
  {
    "breed": "Chihuahua",
@@ -802,7 +904,10 @@
    "MaleWeightMin": 3,
    "MaleWeightMax": 6,
    "FemaleWeightMin": 3,
-   "FemaleWeightMax": 6
+   "FemaleWeightMax": 6,
+   "Exercise Need": 2,
+   "ExerciseMin": 20,
+   "ExerciseMax": 30
  },
  {
    "breed": "Chinese Crested",
@@ -825,7 +930,10 @@
    "MaleWeightMin": 8,
    "MaleWeightMax": 12,
    "FemaleWeightMin": 8,
-   "FemaleWeightMax": 12
+   "FemaleWeightMax": 12,
+   "Exercise Need": 4,
+   "ExerciseMin": 30,
+   "ExerciseMax": 45
  },
  {
    "breed": "Maltese",
@@ -848,7 +956,10 @@
    "MaleWeightMin": 4,
    "MaleWeightMax": 7,
    "FemaleWeightMin": 4,
-   "FemaleWeightMax": 7
+   "FemaleWeightMax": 7,
+   "Exercise Need": 4,
+   "ExerciseMin": 30,
+   "ExerciseMax": 45
  },
  {
    "breed": "Pomeranian",
@@ -871,7 +982,10 @@
    "MaleWeightMin": 3,
    "MaleWeightMax": 7,
    "FemaleWeightMin": 3,
-   "FemaleWeightMax": 7
+   "FemaleWeightMax": 7,
+   "Exercise Need": 4,
+   "ExerciseMin": 30,
+   "ExerciseMax": 45
  },
  {
    "breed": "Yorkshire Terrier",
@@ -894,6 +1008,9 @@
    "MaleWeightMin": 5,
    "MaleWeightMax": 7,
    "FemaleWeightMin": 5,
-   "FemaleWeightMax": 7
+   "FemaleWeightMax": 7,
+   "Exercise Need": 8,
+   "ExerciseMin": 60,
+   "ExerciseMax": 90
  }
 ]
